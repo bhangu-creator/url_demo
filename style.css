@@ -12,13 +12,13 @@ body
 
 @font-face {
     font-family: "outfit";
-    src: url("/fonts/Outfit/static/Outfit-Bold.ttf");
+    src: url("fonts/Outfit/static/Outfit-Bold.ttf");
     font-weight: 700;
 }
 
 @font-face {
     font-family: "outfit";
-    src: url("/fonts/Outfit/static/Outfit-Regular.ttf");
+    src: url("fonts/Outfit/static/Outfit-Regular.ttf");
     font-weight: 400;
 
 }
